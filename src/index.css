@@ -52,7 +52,7 @@ body{
   width: max-content;
   height: 100vh;
   overflow-y: scroll;
-  position: top;
+  position: fixed;
   top: 0;
   left: 0;
   text-align: left;

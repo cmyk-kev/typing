@@ -4,8 +4,8 @@ const App = () =>{
   return (<div className="container">
     
     <div className="valid-keys">
-    <span className="matched"></span>
-    <span className="remainder"></span>
+    <span className="matched">Kev</span>
+    <span className="remainder">in</span>
     </div>
     <div className="typed-keys"></div>
     <div className="completed-words">
